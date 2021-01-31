@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Group2_UT_IT_assignment,group2_ut_it_assignment_2038,question_1_2,question_3" />
+  </component>
+</project>
